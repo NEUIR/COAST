@@ -1,5 +1,4 @@
-# COAST
-Official repository for the paper "COAST: Enhancing the Code Debugging Ability of LLMs through Communicative Agent Based Data Synthesis".
+# COAST: Enhancing the Code Debugging Ability of LLMs through Communicative Agent Based Data Synthesis
 
 <p align="center">
     <a href="https://arxiv.org/pdf/2408.05006">📜 Paper</a> •
