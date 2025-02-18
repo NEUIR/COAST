@@ -172,7 +172,7 @@ showDetails: False   # Whether to display the results of each test point
 
   You just need to change the data path in the `check.py` file.
 
-### 2.4 Code Review Task
+### 2.4 Code Recognition Task
 
 #### (1) Inference Stage
 
