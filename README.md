@@ -1,6 +1,5 @@
 # DebugEval 
-Official repository for the paper "Enhancing the Code Debugging Ability of LLMs via
-Communicative Agent Based Data Refinement".
+Official repository for the paper "COAST: Enhancing the Code Debugging Ability of LLMs through Communicative Agent Based Data Synthesis".
 
 <p align="center">
     <a href="https://arxiv.org/pdf/2408.05006">📜 Paper</a> •
@@ -9,14 +8,14 @@ Communicative Agent Based Data Refinement".
 </p>
 
 ## 1. Introduction
-This paper presents a benchmark, DebugEval, which is used to evaluate the code debugging ability of LLMs (Large Language Models) and proposals a framework for building training data using multiple agents, MASTER.
+This paper presents a benchmark, DebugEval, which is used to evaluate the code debugging ability of LLMs (Large Language Models) and proposals a framework for synthesizing training data using multiple agents, COAST.
 
 ### 1.1 Benchmark
 #### DebugEval designs four task scenarios: BUG Localization, BUG Identification, Code Repair, and Code Review to comprehensively evaluate the code debugging capability of LLMs.
 
 ![image](https://github.com/NEUIR/COAST/blob/main/Figure/benchmark_00.png).
 ### 1.2 MASTER
-#### MASTER is a framework for making use of multiple agents working together to refine training data to improve code debugging capability in LLMs.
+#### COAST is a framework for making use of multiple agents working together to synthesize training data to improve code debugging capability of LLMs.
 
 ![image](https://github.com/NEUIR/COAST/blob/main/Figure/COAST_00.png).
 ## 2. Installation
