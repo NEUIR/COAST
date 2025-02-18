@@ -57,9 +57,13 @@ Please cite the paper and star the repo if you use DebugEval and find it helpful
 
 Feel free to contact 2301983@stu.neu.edu.cn or open an issue if you have any questions.
 ```
-@article{DebugEval2024,
-      title={Enhancing the Code Debugging Ability of LLMs via Communicative Agent Based Data Refinement}, 
-      author={Weiqing Yang, Hanbin Wang, Zhenghao Liu, Xinze Li, Yukun Yan, Shuo Wang, Yu Gu, Minghe Yu, Zhiyuan Liu and Ge Yu},
-      year={2024},
+@misc{yang2025coastenhancingcodedebugging,
+      title={COAST: Enhancing the Code Debugging Ability of LLMs through Communicative Agent Based Data Synthesis}, 
+      author={Weiqing Yang and Hanbin Wang and Zhenghao Liu and Xinze Li and Yukun Yan and Shuo Wang and Yu Gu and Minghe Yu and Zhiyuan Liu and Ge Yu},
+      year={2025},
+      eprint={2408.05006},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2408.05006}, 
 }
 ```
