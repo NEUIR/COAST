@@ -1,4 +1,4 @@
-# DebugEval 
+# COAST
 Official repository for the paper "COAST: Enhancing the Code Debugging Ability of LLMs through Communicative Agent Based Data Synthesis".
 
 <p align="center">
