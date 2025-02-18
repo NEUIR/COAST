@@ -1,5 +1,4 @@
-# ![Uploading 14291508.png…]()
- COAST: Enhancing the Code Debugging Ability of LLMs through Communicative Agent Based Data Synthesis
+# ![image](https://github.com/NEUIR/COAST/blob/main/Figure/14291508.png) COAST: Enhancing the Code Debugging Ability of LLMs through Communicative Agent Based Data Synthesis
 
 <p align="center">
     <a href="https://arxiv.org/pdf/2408.05006">📜 Paper</a> •
