@@ -22,8 +22,8 @@ This paper presents a benchmark, DebugEval, which is used to evaluate the code d
 You can clone the repository using the following command:
 
 ```
-git clone DebugEval
-cd DebugEval
+git clone COAST
+cd COAST
 ```
 
 ## 3. Inference and Evaluation
