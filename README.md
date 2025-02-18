@@ -21,7 +21,7 @@ This paper presents a benchmark, DebugEval, which is used to evaluate the code d
 You can clone the repository using the following command:
 
 ```
-git clone COAST
+git clone https://github.com/NEUIR/COAST
 cd COAST
 ```
 
