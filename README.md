@@ -1,10 +1,10 @@
-# 🕷️DebugEval 
+# DebugEval 
 Official repository for the paper "Enhancing the Code Debugging Ability of LLMs via
 Communicative Agent Based Data Refinement".
 
 <p align="center">
     <a href="https://arxiv.org/pdf/2408.05006">📜 Paper</a> •
-    <a href="https://huggingface.co/datasets/yangweiqing/DebugEval-Dataset">🤗 Data </a> •
+    <a href="https://huggingface.co/datasets/yangweiqing/DebugEval">🤗 Data </a> •
     <a href="https://huggingface.co/yangweiqing">🤖 Model </a>
 </p>
 
