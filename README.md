@@ -18,7 +18,7 @@ This paper presents a benchmark, DebugEval, which is used to evaluate the code d
 ### 1.2 MASTER
 #### MASTER is a framework for making use of multiple agents working together to refine training data to improve code debugging capability in LLMs.
 
-![Intro.pdf](https://github.com/NEUIR/COAST/blob/main/Figure/COAST.pdf)
+![image](https://github.com/NEUIR/COAST/blob/main/Figure/COAST_00.png).
 ## 2. Installation
 You can clone the repository using the following command:
 
