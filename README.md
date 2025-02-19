@@ -10,7 +10,7 @@
 This paper presents a benchmark, DebugEval, which is used to evaluate the code debugging ability of LLMs (Large Language Models) and proposals a framework for synthesizing training data using multiple agents, COAST.
 
 ### 1.1 DEBUGEVAL
-#### DebugEval designs four task scenarios: BUG Localization, BUG Identification, Code Repair, and Code Review to comprehensively evaluate the code debugging capability of LLMs.
+#### DebugEval designs four task scenarios: BUG Localization, BUG Identification, Code Repair, and Code Recognition to comprehensively evaluate the code debugging capability of LLMs.
 
 ![image](https://github.com/NEUIR/COAST/blob/main/Figure/benchmark_00.png).
 ### 1.2 COAST
@@ -33,7 +33,7 @@ cd src
 ```
 Please refer to `src/README.md` for more details.
 ## 4. Fine-Tuning
-We use DeepSeek-Coder-6.7B-Ins and Llama3-8B-Ins as the base model, and train the models with MASTER framework.
+We use DeepSeek-Coder-6.7B-Ins and Llama3-8B-Ins as the base model, and train the models with COAST framework.
 
 ### 4.1 For DeepSeek-Coder-6.7B-Ins
 ```
